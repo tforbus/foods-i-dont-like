@@ -21,4 +21,5 @@ This list is a work in progress.
 - mushrooms
 - mustard
 - olives
+- oysters
 - shellfish, shrimp
