@@ -5,6 +5,9 @@ This list is a work in progress.
 
 - beans, fava
 - beans, lima
+- condiment, aioli
+- condiment, mayo
+- condiment, mustard
 - dressing, ranch
 - dressing, french
 - dressing, honey mustard
@@ -12,14 +15,24 @@ This list is a work in progress.
 - dressing, catalina
 - dressing, cesar
 - fish, anchovies
+- fish, cod
 - fish, sardines
 - fish, tuna
-- fennel
+- fruit, durian
+- fruit, star fruit
+- fungus, mushrooms
 - greens, mustard
 - greens, turnip
-- mayo
-- mushrooms
-- mustard
-- olives
+- olives, green
+- olives, black
+- olives, katamala
 - oysters
+- peas, english
 - shellfish, shrimp
+- spice, fennel
+- sprouts, alfalfa
+- squash, butternut
+- vegetable, artichoke
+- vegetable, arugula
+- vegetable, ginger
+- vegetable, kale
